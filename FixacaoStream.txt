@@ -1,0 +1,8 @@
+Mauricio boy,oitavo@email.com,5723.57
+Michele fachineira,setimo@email.com,1103.91
+Monica mulher do dono,sexto@email.com,1290.52
+Maria secretaria,quinto@email.com,850.33
+Giovani auxiliar,quarto@email.com,1680.90
+Antonio meia boca,terceiro@email.com,1150.50
+Mauro Subordinado,segundo@email.com,750.00
+Joao Chão de Fábrica,primero@email.com,900.00
